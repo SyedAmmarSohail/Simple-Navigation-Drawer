@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="versions">Android Versions</string>
+    <string name="selected_item">Selected item</string>
+
+    <string-array name="versions">
+        <item>Nougat</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Jelly Bean</item>
+    </string-array>
+
+    <string-array name="nougat">
+        <item>Android 7.0 for Developers</item>
+        <item>Android 7.0 Behavior Changes</item>
+        <item>Android 7.0 Samples</item>
+        <item>Android 7.1 for Developers</item>
+        <item>Android 7.1 Samples</item>
+    </string-array>
+
+    <string-array name="marshmallow">
+        <item>Android 6.0 APIs</item>
+        <item>Android 6.0 Changes</item>
+        <item>Android 6.0 Samples</item>
+        <item>Android 6.0 Testing Guide</item>
+    </string-array>
+
+    <string-array name="lollipop">
+        <item>Android 5.1 APIs</item>
+        <item>Android 5.0 APIs</item>
+        <item>Android 5.0 Behavior Changes</item>
+    </string-array>
+
+    <string-array name="kitKat">
+        <item>Android 4.4 APIs</item>
+    </string-array>
+
+    <string-array name="jelly_bean">
+        <item>Android 4.3 APIs</item>
+        <item>Android 4.2 APIs</item>
+        <item>Android 4.1 APIs</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">movie title</string>
+    <string name="nougat">Nougat</string>
+    <string name="marshmallow">Marshmallow</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="kitKat">KitKat</string>
+    <string name="jelly_Bean">Jelly Bean</string>
+<!--    <string name="movie_genre">genre</string>-->
+
+ <!--   <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="android_version">Android Version</string>
+    <string name="jelly">Jelly Bean</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="marshmallow">Marshmallow</string>
+    <string name="nougat">Nougat</string>
+    <string name="movie_genre">genre</string>-->
+
+</resources>
